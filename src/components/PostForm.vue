@@ -14,7 +14,6 @@
       title: '',
       body: '',
     })
-
     
   const emits = defineEmits();
 
